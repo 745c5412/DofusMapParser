@@ -3,25 +3,26 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/vincent/NetBeansProjects/DofusMapParser/src/org/pvemu/dofusmapparser/factory/CachedCellFactory.java</file>
             <file>file:/home/vincent/NetBeansProjects/DofusMapParser/src/org/pvemu/dofusmapparser/data/CellObject.java</file>
             <file>file:/home/vincent/NetBeansProjects/DofusMapParser/src/org/pvemu/dofusmapparser/factory/AbstractCellFactory.java</file>
             <file>file:/home/vincent/NetBeansProjects/DofusMapParser/src/org/pvemu/dofusmapparser/data/Cell.java</file>
             <file>file:/home/vincent/NetBeansProjects/DofusMapParser/test/org/pvemu/dofusmapparser/data/AbstractCellTest.java</file>
             <file>file:/home/vincent/NetBeansProjects/DofusMapParser/src/org/pvemu/dofusmapparser/data/ImmutableDofusMap.java</file>
             <file>file:/home/vincent/NetBeansProjects/DofusMapParser/src/org/pvemu/dofusmapparser/data/ImmutableCell.java</file>
+            <file>file:/home/vincent/NetBeansProjects/DofusMapParser/test/org/pvemu/dofusmapparser/data/AbstractDofusMapTest.java</file>
             <file>file:/home/vincent/NetBeansProjects/DofusMapParser/src/org/pvemu/dofusmapparser/DofusMapParser.java</file>
-            <file>file:/home/vincent/NetBeansProjects/DofusMapParser/src/org/pvemu/dofusmapparser/factory/MutableCellFactory.java</file>
-            <file>file:/home/vincent/NetBeansProjects/DofusMapParser/src/org/pvemu/dofusmapparser/factory/ImmutableDofusMapFactory.java</file>
+            <file>file:/home/vincent/NetBeansProjects/DofusMapParser/src/org/pvemu/dofusmapparser/factory/CachedDofusMapFactory.java</file>
             <file>file:/home/vincent/NetBeansProjects/DofusMapParser/src/org/pvemu/dofusmapparser/data/ImmutableCellObject.java</file>
             <file>file:/home/vincent/NetBeansProjects/DofusMapParser/src/org/pvemu/dofusmapparser/factory/AbstractDofusMapFactory.java</file>
-            <file>file:/home/vincent/NetBeansProjects/DofusMapParser/src/org/pvemu/dofusmapparser/factory/ImmutableCellFactory.java</file>
             <file>file:/home/vincent/NetBeansProjects/DofusMapParser/src/org/pvemu/dofusmapparser/data/DofusMap.java</file>
+            <file>file:/home/vincent/NetBeansProjects/DofusMapParser/src/org/pvemu/dofusmapparser/model/MapModel.java</file>
             <file>file:/home/vincent/NetBeansProjects/DofusMapParser/src/org/pvemu/dofusmapparser/data/MutableCellObject.java</file>
             <file>file:/home/vincent/NetBeansProjects/DofusMapParser/src/org/pvemu/dofusmapparser/data/MutableCell.java</file>
             <file>file:/home/vincent/NetBeansProjects/DofusMapParser/src/org/pvemu/dofusmapparser/factory/MutableDofusMapFactory.java</file>
             <file>file:/home/vincent/NetBeansProjects/DofusMapParser/test/org/pvemu/dofusmapparser/data/CellObjectTest.java</file>
+            <file>file:/home/vincent/NetBeansProjects/DofusMapParser/test/org/pvemu/dofusmapparser/factory/AbstractDofusMapFactoryTest.java</file>
             <file>file:/home/vincent/NetBeansProjects/DofusMapParser/src/org/pvemu/dofusmapparser/data/MutableDofusMap.java</file>
+            <file>file:/home/vincent/NetBeansProjects/DofusMapParser/src/org/pvemu/dofusmapparser/factory/DofusMapFactory.java</file>
         </group>
     </open-files>
 </project-private>
