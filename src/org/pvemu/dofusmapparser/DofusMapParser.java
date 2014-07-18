@@ -1,5 +1,7 @@
 package org.pvemu.dofusmapparser;
 
+import org.pvemu.dofusmapparser.compressor.DofusMapCompressor;
+import org.pvemu.dofusmapparser.compressor.DofusMapCompressorImpl;
 import org.pvemu.dofusmapparser.factory.CachedDofusMapFactory;
 import org.pvemu.dofusmapparser.factory.ImmutableDofusMapFactory;
 import org.pvemu.dofusmapparser.factory.MutableDofusMapFactory;
@@ -12,6 +14,7 @@ final public class DofusMapParser {
     static private CachedDofusMapFactory cachedDofusMapFactory = null;
     static private ImmutableDofusMapFactory immutableDofusMapFactory = null;
     static private MutableDofusMapFactory mutableDofusMapFactory = null;
+    static private DofusMapCompressor compressor = null;
 
     public static CachedDofusMapFactory getCachedDofusMapFactory() {
         if(cachedDofusMapFactory == null)
@@ -33,6 +36,11 @@ final public class DofusMapParser {
         
         return mutableDofusMapFactory;
     }
-    
-    
+
+    public static DofusMapCompressor getCompressor() {
+        if(compressor == null)
+            compressor = new DofusMapCompressorImpl();
+        
+        return compressor;
+    }
 }
